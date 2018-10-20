@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "35858414133",
+    "firebase_url": "https://hamukatsu2-9bebb.firebaseio.com",
+    "project_id": "hamukatsu2-9bebb",
+    "storage_bucket": "hamukatsu2-9bebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35858414133:android:60bb95643898e37d",
+        "android_client_info": {
+          "package_name": "com.Company.ProductName"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35858414133-i32vu9glsdskr1e2qa4cn63ci0oo2kib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIG0BSqrHBWVPu37MF8KA0pdLRc4P2Hp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35858414133:android:d230d54e25d0bae9",
+        "android_client_info": {
+          "package_name": "com.noir.hamukatsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35858414133-i32vu9glsdskr1e2qa4cn63ci0oo2kib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIG0BSqrHBWVPu37MF8KA0pdLRc4P2Hp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

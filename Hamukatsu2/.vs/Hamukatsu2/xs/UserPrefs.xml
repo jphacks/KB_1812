@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{29737A54-E0C7-3B2A-3717-4FA512EC039E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoginedScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CreateAccountScript.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/SigninScript.cs" Line="26" Column="5" />
+      <File FileName="Assets/Scripts/LoadSceneScript.cs" Line="23" Column="40" />
+      <File FileName="Assets/Scripts/LoginScript.cs" Line="66" Column="82" />
+      <File FileName="Assets/Scripts/LoginedScript.cs" Line="81" Column="53" />
+      <File FileName="Assets/Scripts/User.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
