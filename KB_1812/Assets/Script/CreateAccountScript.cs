@@ -8,22 +8,17 @@ public class CreateAccountScript : MonoBehaviour {
     InputField inputMail, inputPass, inputName;
     string MailText, PassText, NameText;
 
-    void OnEnable(){
-        inputName = GameObject.Find("DisplayNameInput").GetComponent<InputField>();
-        inputMail = GameObject.Find("MailInput").GetComponent<InputField>();
-        inputPass = GameObject.Find("PassInput").GetComponent<InputField>();        
-    }
-    /*
 	// Use this for initialization
 	void Start () {
-
+        inputName = GameObject.Find("DisplayNameInput").GetComponent<InputField>();
+        inputMail = GameObject.Find("MailInput").GetComponent<InputField>();
+        inputPass = GameObject.Find("PassInput").GetComponent<InputField>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
 	}
-    */
 
     public void OnClick(){
         NameText = inputName.text; //入力したDisplayNameを取得

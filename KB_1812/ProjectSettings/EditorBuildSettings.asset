@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Mapbox/Examples/2_AstronautGame/AstronautGame.unity
     guid: 23b3522d4f6fa450eb781397db4b26ed
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 2e940c674272d46868a08fbf9f41809d
   m_configObjects: {}
