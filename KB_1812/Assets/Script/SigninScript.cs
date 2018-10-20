@@ -23,8 +23,6 @@ public class SigninScript : MonoBehaviour {
 
     bool isMove;
 
-<<<<<<< HEAD
-=======
     void OnEnable(){
         inputMail = GameObject.Find("MailInput").GetComponent<InputField>();
         inputPass = GameObject.Find("PassInput").GetComponent<InputField>();
@@ -42,9 +40,7 @@ public class SigninScript : MonoBehaviour {
         isMove = false;
     }
 
-
->>>>>>> b290b82d048cb6f943584eb14656e75c66f61a39
-	// Use this for initialization
+    // Use this for initialization
 	void Start () {
         inputMail = GameObject.Find("MailInput").GetComponent<InputField>();
         inputPass = GameObject.Find("PassInput").GetComponent<InputField>();
@@ -52,17 +48,11 @@ public class SigninScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-<<<<<<< HEAD
-		
-	}
-=======
 
         // TODO 飛ぶシーンが違う
         //if (isMove) SceneManager.LoadScene("Main");
         if (isMove) Debug.Log("シーン移動と切り替える！");
     }
-
->>>>>>> b290b82d048cb6f943584eb14656e75c66f61a39
 
     public void OnClick(){
         mMailText = inputMail.text; //入力したMailAdressを取得

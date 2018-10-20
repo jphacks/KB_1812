@@ -19,8 +19,6 @@ public class CreateAccountScript : MonoBehaviour {
     InputField inputMail, inputPass, inputName;
     string mMailText, mPassText, mNameText;
 
-<<<<<<< HEAD
-=======
     void OnEnable(){
 
         // 各テキストフィールドから取得
@@ -40,8 +38,8 @@ public class CreateAccountScript : MonoBehaviour {
             Debug.Log("start()");
         }
     }
-    /*
->>>>>>> b290b82d048cb6f943584eb14656e75c66f61a39
+
+
 	// Use this for initialization
 	void Start () {
         inputName = GameObject.Find("DisplayNameInput").GetComponent<InputField>();
