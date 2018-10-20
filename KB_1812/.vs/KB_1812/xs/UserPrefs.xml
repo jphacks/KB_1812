@@ -1,8 +1,15 @@
 ﻿<Properties StartupConfiguration="{FEBBA0E9-6C0F-70B1-2C0A-AF418126F6C8}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/roomScript.cs">
     <Files>
       <File FileName="Assets/Scripts/roomScript.cs" Line="19" Column="33" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SigninScript.cs">
+    <Files>
+      <File FileName="Assets/Script/SigninScript.cs" Line="31" Column="9" />
+      <File FileName="Assets/Script/CreateAccountScript.cs" Line="33" Column="99" />
+>>>>>>> b290b82d048cb6f943584eb14656e75c66f61a39
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
