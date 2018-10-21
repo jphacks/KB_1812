@@ -1,11 +1,11 @@
-# サンプル（プロダクト名）
+# choosee
 
 [![choosee](https://user-images.githubusercontent.com/27483723/47263219-07c47300-d538-11e8-8024-edcc8881dbcb.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
 ## 製品概要
 ### X Tech（X → 今回皆さんが選定した好きな言葉に書き換えてください）
 待ち合わせTech
-### 背景（製品開発のきっかけ、課題等）![](https://user-images.githubusercontent.com/27483723/47263220-085d0980-d538-11e8-8969-f021b987c00e.png)
+### 背景（製品開発のきっかけ、課題等）![back](https://user-images.githubusercontent.com/27483723/47263220-085d0980-d538-11e8-8969-f021b987c00e.png)
 待ち合わせするときに、
 「駅で集まると広すぎてどこに集まれば良いかわからない！」それらを解決するために、待ち合わせする場所を具体的に決めて待ち合わせがスムーズにする
 
@@ -34,7 +34,8 @@
 ### 今後の展望
 今回は実現できなかったが、今後改善すること、どのように展開していくことが可能かについて記載をしてください。
 * 待ち合わせの楽しさを増やす要素を実装したい
-待ち合わせ場所
+待ち合わせ場所にたどり着くとポイントが貯まる
+
 * スポットを店とかにする
 
 ## 開発内容・開発技術
@@ -66,7 +67,7 @@
 * 独自で開発したものの内容をこちらに記載してください
 * 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください（任意）
 オリジナルのロゴ　UIデザイン（AdobeXD,illustrator）
-待ち合わせ場所　エフェクト(Unity:PaticleSystem)
+待ち合わせ場所　エフェクト(Unity:PaticleSystem):KB_1812/JPHackKobe1812/Assets/Parker/Prefabs/Destin.prefab
 アプリの会員、新規登録機能,ログイン機能 (firebase)
 ルームID保持(firebase)
 現在地の緯度経度を取得する(Unity:MapSDK)
