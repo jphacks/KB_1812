@@ -17,14 +17,14 @@
 ### 特長
 
 #### 1. 特長1
-![title1](https://user-images.githubusercontent.com/27483723/47263222-08f5a000-d538-11e8-93f7-007165e9d7fc.png)
+![title1](https://user-images.githubusercontent.com/27483723/47263222-08f5a000-d538-11e8-93f7-007165e9d7fc.png)  
 待ち合わせ場所をビジュアル的にわかりやすく指定しグループ
 みんなで共有できること
 #### 2. 特長2
-![title2](https://user-images.githubusercontent.com/27483723/47263223-08f5a000-d538-11e8-9bcb-e79455c2b665.png)
+![title2](https://user-images.githubusercontent.com/27483723/47263223-08f5a000-d538-11e8-9bcb-e79455c2b665.png)  
 自分たちで待ち合わせ場所を指定して、それを2Dと3D切り替えながらマップを確認しながら自分で目指して探して待ち合わせ場所に行く
 #### 3. 特長3
-![title3](https://user-images.githubusercontent.com/27483723/47263224-08f5a000-d538-11e8-856e-14b1f0b5dc3c.png)
+![title3](https://user-images.githubusercontent.com/27483723/47263224-08f5a000-d538-11e8-856e-14b1f0b5dc3c.png)  
 スタイリッシュな自作のデザイン・クールでワクワクさせるエフェクトを使い、待ち合わせをする時間が楽しくなるように演出していること
 ### 解決出来ること
 待ち合わせ場所を細かく決めること,ビジュアル的に分かりやすくする事で迷うことなくスムーズに集まることが出来るようになります。
