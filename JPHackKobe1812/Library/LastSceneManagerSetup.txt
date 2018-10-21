@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Parker/Scenes/MapViewer.unity
+  isLoaded: 1
+  isActive: 1
