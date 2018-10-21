@@ -64,11 +64,9 @@
 
 ### 独自開発技術（Hack Dayで開発したもの）
 #### 2日間に開発した独自の機能・技術
-* 独自で開発したものの内容をこちらに記載してください
-* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください（任意）
 オリジナルのロゴ　UIデザイン（AdobeXD,illustrator）  
 待ち合わせ場所　エフェクト(Unity:PaticleSystem):KB_1812/JPHackKobe1812/Assets/Parker/Prefabs/Destin.prefab  
-アプリの会員、新規登録機能,ログイン機能 (firebase)  
+アプリの会員、新規登録機能,ログイン機能(firebase):KB_1812/JPHackKobe1812/Assets/Scripts/SigninScript.cs,KB_1812/JPHackKobe1812/Assets/Scripts/CreateAccountScript.cs
 ルームID保持(firebase)  
 現在地の緯度経度を取得する(Unity:MapSDK)  
 
