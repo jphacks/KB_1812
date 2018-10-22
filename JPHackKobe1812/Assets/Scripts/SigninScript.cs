@@ -51,7 +51,7 @@ public class SigninScript : MonoBehaviour {
 
         // TODO 飛ぶシーンが違う
         //if (isMove) SceneManager.LoadScene("Main");
-        if (isMove) Debug.Log("シーン移動と切り替える！");
+        if (isMove) SceneManager.LoadScene("SelectRoom");
     }
 
     public void OnClick(){
